@@ -1,2 +1,1 @@
-# Chain-Game
-I made a chain game in java.
+Integrate the Enigma file into your java project document and then use it.
